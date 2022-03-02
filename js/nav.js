@@ -3,7 +3,7 @@ const createNav = () => {
 
     nav.innerHTML = `
     <div class="nav">
-    <img src="img/DigMA.png" class="brand-logo" alt="">
+    <a href="index.html"><img src="img/DigMA.png" class="brand-logo" alt=""></a>
     <div class="nav-itens">
         <div class="search">
             <input type="text" class="search-box" placeholder="Pesquise Serviços Aqui">
