@@ -20,7 +20,7 @@ const createFooter = () => {
             <li>
                 <a href="" class="footer-link">Chuveiro<a>
             </li>
-            <li><a href="" class="footer-link">Projeto ART</a></li>
+            <li><a href="" class="footer-link">ART</a></li>
 
         </ul>
         <ul class="category">
@@ -37,7 +37,7 @@ const createFooter = () => {
             <li>
                 <a href="" class="footer-link">Chuveiro<a>
             </li>
-            <li><a href="" class="footer-link">Projeto ART</a></li>
+            <li><a href="" class="footer-link">ART</a></li>
 
         </ul>
         <ul class="category">
@@ -54,7 +54,7 @@ const createFooter = () => {
             <li>
                 <a href="" class="footer-link">Chuveiro<a>
             </li>
-            <li><a href="" class="footer-link">Projeto ART</a></li>
+            <li><a href="" class="footer-link">ART</a></li>
 
         </ul>
         <ul class="category">
@@ -71,7 +71,7 @@ const createFooter = () => {
             <li>
                 <a href="" class="footer-link">Chuveiro<a>
             </li>
-            <li><a href="" class="footer-link">Projeto ART</a></li>
+            <li><a href="" class="footer-link">ART</a></li>
 
         </ul>
     </div>
